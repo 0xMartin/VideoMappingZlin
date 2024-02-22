@@ -1,0 +1,17 @@
+# ignore mov files (for now)
+Footage/Originals/*
+*Auto-Save
+Project/Visual Effects_AME/*
+Project/Adobe Premiere Pro*
+
+# OS or Editor folders
+.DS_Store
+._*
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+nbproject
+*.plist
+*.ulysses*
