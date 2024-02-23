@@ -8,3 +8,7 @@
   <i>Adobe After Effects version: AE 2020 - 17.0.4</i>
 </div>
 
+
+## Required plugins
+
+* __Saber:__ https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/
