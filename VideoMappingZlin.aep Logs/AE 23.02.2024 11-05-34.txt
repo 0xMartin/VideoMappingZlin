@@ -1,0 +1,8 @@
+  23.02.2024 11:05:34: Starting composition “Main”.
+
+  Output To: C:\Users\Martin Krcma\Desktop\Main.avi    23.02.2024 11:06:21: Finished composition “Main”.
+
+
+  Total Time Elapsed: 47 Seconds
+Log closed on 23.02.2024 at 11:06:21
+
