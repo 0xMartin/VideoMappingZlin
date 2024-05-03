@@ -24,6 +24,10 @@ __Output format:__ MP4 H.264
 
 This student project is a video mapping with a focus on the Zlín. The aim of the project is to present the city Zlín through animation/videomapping and to highlight its most important historical moments, events and its significance in the world.
 
+# Final video
+
+[![Video](https://www.youtube.com/watch?v=JPxImHH-gW4&ab_channel=MartinKr%C4%8Dma/0.jpg)](https://www.youtube.com/watch?v=JPxImHH-gW4&ab_channel=MartinKr%C4%8Dma)
+
 ## 🎬 AE Project Structure
 
 > The structure of the AF project
