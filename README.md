@@ -26,7 +26,7 @@ This student project is a video mapping with a focus on the Zlín. The aim of th
 
 # Final video
 
-[Odkaz na finalni video](https://youtu.be/JPxImHH-gW4)
+[Link on final video](https://youtu.be/JPxImHH-gW4)
 
 ## 🎬 AE Project Structure
 
