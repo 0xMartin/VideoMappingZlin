@@ -50,5 +50,3 @@ This student project is a video mapping with a focus on the Zlín. The aim of th
 * __Music__ - The Music folder contains all the music tracks used in the project. 
 * __SFX__ - In the SFX folder, you'll find all the sound effects used in the project.
 * __Video__ - The Video folder contains all the video files used in the project. These files may include footage, animations, or any other video elements incorporated into compositions.
-
-## 📝 Script
